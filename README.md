@@ -1,2 +1,4 @@
 # hey-world
-pokusny podle navodu
+
+trying to edit
+and lets see...
